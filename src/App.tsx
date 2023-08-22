@@ -5,7 +5,7 @@ import AboutPage from './pages/About';
 //
 function App() {
   return (
-		<BrowserRouter basename="/3UewHF0ge9">
+		<BrowserRouter basename="/sahMOa1qQR">
 			<ExperienceProvider>
 				<Routes>
 					<Route path="/" element={<HomePage />}></Route>
